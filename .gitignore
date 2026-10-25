@@ -1,0 +1,14 @@
+obj/
+dist/
+Lang/
+Editor/
+Assets/
+*.dll
+*.exe
+*.bin
+*.cok
+*.loc
+*.backup
+*.log
+publication.json
+project.json
